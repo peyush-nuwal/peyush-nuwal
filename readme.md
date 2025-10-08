@@ -100,7 +100,7 @@
 
 
 
-![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
+![3D Contribution Graph](https://raw.githubusercontent.com/peyush-nuwal/peyush-nuwal/refs/heads/main/profile-3d-contrib/profile-night-green.svg)
 
 
 ---
