@@ -31,50 +31,48 @@
   From pixels to APIs — tools I build with daily
 </p>
 
-<table align="center">
-  <!-- Row 1: Frontend Frameworks -->
-  <tr>
-    <td></td>
+  <table align="center">
+  <!-- 🧩 Frontend, Languages & State -->
+  <tr> 
     <td align="center"><img src="https://skillicons.dev/icons?i=react" /><br/>React.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" /><br/>Next.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" /><br/>TypeScript</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vue" /><br/>Vue.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=angular" /><br/>Angular</td>
-    <td></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=typescript" /><br/>TypeScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=javascript" /><br/>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redux" /><br/>Redux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /><br/>TailwindCSS</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=figma" /><br/>Figma</td>
+ 
   </tr>
 
-  <!-- Row 2: Styling + Backend + DB -->
+  <!-- 🧠 Backend, Databases & Caching -->
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=javascript" /><br/>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /><br/>Tailwind</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /><br/>Node.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=express" /><br/>Express</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" /><br/>MongoDB</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" /><br/>PostgreSQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" /><br/>MySQL</td>
+     <td align="center"><img src="https://skillicons.dev/icons?i=supabase" /><br/>supabase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redis" /><br/>Redis</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" /><br/>Firebase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=prisma" /><br/>Prisma</td>
+  
+
   </tr>
 
-  <!-- Row 3: Bonus/DevOps/Testing -->
+  <!-- ⚙️ DevOps, Tools & Testing -->
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=jest" /><br/>Jest</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" /><br/>Linux</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman" /><br/>Postman</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" /><br/>Firebase</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" /><br/>Vercel</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bash" /><br/>Bash</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=eslint" /><br/>ESLint</td>
-  </tr>
-  <!-- Row 4: Tools, Infra -->
-  <tr>
-    <td></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=prisma" /><br/>Prisma</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker" /><br/>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" /><br/>Git Actions</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" /><br/>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bash" /><br/>Bash</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" /><br/>Git</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" /><br/>GitHub</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma" /><br/>Figma</td>
-    <td></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" /><br/>Vercel</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" /><br/>Postman</td>
+     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" /><br/>VS Code</td>
   </tr>
-
 
 </table>
 
@@ -94,7 +92,7 @@
   </tr>
    <tr>
     <!-- Streak Stats -->
-    <td  >
+     <td  >
      <img   src="https://github-readme-activity-graph.vercel.app/graph?username=peyush-nuwal&bg_color=0d1117&color=34D399&line=34D399&point=FFFFFF&area=true&hide_border=true" />
     </td>
     <!-- GitHub Stats -->
