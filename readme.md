@@ -84,20 +84,26 @@
 <table align="center">
   <tr>
     <!-- GitHub Stats -->
-    <td width="50%">
+    <td  >
       <img src="https://github-readme-stats.vercel.app/api?username=peyush-nuwal&show_icons=true&hide_border=true&bg_color=0d1117&title_color=34D399&icon_color=34D399&text_color=34D399&border_color=0d1117" />
     </td>
     <!-- Streak Stats -->
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=peyush-nuwal&hide_border=true&background=0D1117&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=34D399&sideNums=34D399&dates=AAAAAA" />
+    <td  >
+     <img   src="https://github-readme-activity-graph.vercel.app/graph?username=peyush-nuwal&bg_color=0d1117&color=34D399&line=34D399&point=FFFFFF&area=true&hide_border=true" />
     </td>
   </tr>
+   <tr>
+    <!-- Streak Stats -->
+    <td  >
+     <img   src="https://github-readme-activity-graph.vercel.app/graph?username=peyush-nuwal&bg_color=0d1117&color=34D399&line=34D399&point=FFFFFF&area=true&hide_border=true" />
+    </td>
+    <!-- GitHub Stats -->
+    <td  >
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=peyush-nuwal&hide_border=true&background=0D1117&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=34D399&sideNums=34D399&dates=AAAAAA" />
+    </td>
+   
+  </tr>
 </table>
-
-<p align="center">
-  <img   src="https://github-readme-activity-graph.vercel.app/graph?username=peyush-nuwal&bg_color=0d1117&color=34D399&line=34D399&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
 
 <img src="https://raw.githubusercontent.com/peyush-nuwal/peyush-nuwal/refs/heads/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph">
 
