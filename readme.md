@@ -99,7 +99,7 @@
 </p>
 
 
-<img src="https://raw.githubusercontent.com/peyush-nuwal/peyush-nuwal/refs/heads/main/profile-3d-contrib/profile-night-green.svg"  height="400" alt="3D Contribution Graph">
+<img src="https://raw.githubusercontent.com/peyush-nuwal/peyush-nuwal/refs/heads/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph">
 
 
 
