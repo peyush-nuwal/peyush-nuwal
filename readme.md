@@ -91,9 +91,13 @@
     </td>
   </tr>
    <tr>
-    <!-- Streak Stats -->
+    <!-- contribution calender with snake -->
      <td  >
-     <img   src="https://github-readme-activity-graph.vercel.app/graph?username=peyush-nuwal&bg_color=0d1117&color=34D399&line=34D399&point=FFFFFF&area=true&hide_border=true" />
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peyush-nuwal/peyush-nuwal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peyush-nuwal/peyush-nuwal/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/peyush-nuwal/peyush-nuwal/output/github-contribution-grid-snake.svg">
+</picture>
     </td>
     <!-- GitHub Stats -->
     <td  >
@@ -106,7 +110,7 @@
 <img src="https://raw.githubusercontent.com/peyush-nuwal/peyush-nuwal/refs/heads/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph">
 
 
-
+ 
 ---
 
 ### 🔗 Connect with Me
