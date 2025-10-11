@@ -1,9 +1,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=800&color=34D399&center=false&vCenter=true&multiline=true&width=600&height=60&lines=Hey%2C+I'm+Peyush+Nuwal." />
 
 <p align="left" style="font-family: 'JetBrains Mono', monospace; font-size: 15px; color: #9CA3AF;">
-  🚀 Frontend & Full Stack Developer pushing pixels, APIs, and boundaries <br/>
-  🔥 Building real-world apps with React, Node.js, and modern web technologies <br/>
-  🧠 Focused on continuous learning, mastery of JavaScript, and solving tough problems
+  🚀 Full Stack Developer crafting interfaces and APIs that delight and perform <br/>
+  🔥 Building real-world apps with React, Node.js, and the latest web technologies <br/>
+  🧠 Constantly leveling up my JavaScript, algorithms, and system design skills
 </p>
 
 <p align="left">
@@ -11,17 +11,17 @@
 </p>
 
 <p align="left" style="font-family: 'JetBrains Mono', monospace; font-size: 15px; color: #9CA3AF;">
-  💻 Passionate about full stack architecture — crafting performant, scalable apps <br/>
-  🧠 Daily DSA & algorithm grind — building code that’s clean, efficient, and smart <br/>
-  🎯 Open-source enthusiast, always pushing myself and helping others grow <br/>
-  🧘 Calm under pressure, precise in execution, no compromises on quality
+  💻 Passionate about building robust, scalable, and maintainable apps <br/>
+  🧠 Daily DSA and algorithm grind — clean, efficient, and practical code <br/>
+  🎯 Open-source advocate, contributing to projects that impact developers globally <br/>
+  🧘 Calm under pressure, precise in execution, and obsessed with quality
 </p>
 
 ---
 
 ### 🛠️ My Toolbox
 <p align="left" style="font-size: 16px; color: #9CA3AF;">
-  From frontend frameworks to backend engines — tools I live and breathe
+  From UI frameworks to databases — the stack I wield daily
 </p>
 
 <table align="center">
@@ -78,7 +78,9 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=peyush-nuwal&hide_border=true&background=0D1117&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=34D399&sideNums=34D399&dates=AAAAAA" />
     </td>
   </tr>
-  <tr>    <img src="https://github-readme-activity-graph.vercel.app/graph?username=peyush-nuwal&bg_color=0d1117&color=34D399&line=34D399&point=FFFFFF&area=true&hide_border=true" /></tr>
+  <tr>    
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=peyush-nuwal&bg_color=0d1117&color=34D399&line=34D399&point=FFFFFF&area=true&hide_border=true" />
+  </tr>
 </table>
 
 <picture>
