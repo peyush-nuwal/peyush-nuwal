@@ -75,7 +75,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=peyush-nuwal&show_icons=true&hide_border=true&bg_color=0d1117&title_color=34D399&icon_color=34D399&text_color=34D399&border_color=0d1117" />
     </td>
     <td> 
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=peyush-nuwal&hide_border=true&background=0D1117&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=34D399&sideNums=34D399&dates=AAAAAA" />
+[![GitHub Streak](https://github-readme-streak-stats-opal-six.vercel.app?user=peyush-nuwal&theme=onedark-duo&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=34D399&border=34D399&currStreakLabel=34D399&sideLabels=34D399&sideNums=34D399&dates=AAAAAA)](https://git.io/streak-stats)
     </td>
   </tr>
   <tr>    
